@@ -341,11 +341,6 @@ Workers with 5-star trust scores can refer others and receive a **₹50 credit**
 
 ---
 
-## 11. Appendix - Key Assumptions & Constraints
-
-*(Additional assumptions and constraints would be listed here as per the original document)*
-
----
 
 **Last Updated:** March 2026  
 **Status:** DEVTrails 2026 Phase 1 Submission
